@@ -103,7 +103,7 @@
 
 ---
 
-## 🔎 SEO: ключевые слова и теги
+## 🔎 Keywords & Tags
 - Ключевые слова: telegram магазин, telegram ecommerce, бот магазин, конструктор telegram магазина, telegram shop builder, анонимность, privacy‑first, self‑hosted, криптоплатежи, PayKassa, карты, СБП, платежи, Django Admin, Flask API, MySQL, REST API, подписки, digital goods, e‑commerce bot
 - Теги: #telegram #ecommerce #бот #магазин #анонимность #privacy #selfhosted #crypto #payments #python #django #flask #mysql #api #subscriptions #digitalgoods #SellSynapse
 
@@ -216,7 +216,7 @@ Done renting your audience? Start owning it. Today.
 
 ---
 
-## 🔎 SEO: Keywords & Tags
+## 🔎 Keywords & Tags
 - Keywords: telegram ecommerce, telegram store builder, bot shop, privacy‑first, self‑hosted, crypto payments, PayKassa, cards, SBP, payments, Django Admin, Flask API, MySQL, REST API, subscriptions, digital goods, e‑commerce bot
 - Tags: #telegram #ecommerce #bot #privacy #selfhosted #crypto #payments #python #django #flask #mysql #api #subscriptions #digitalgoods #SellSynapse
 
