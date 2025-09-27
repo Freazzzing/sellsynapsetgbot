@@ -78,7 +78,7 @@
 - Платные консультации и сервисы: быстрый биллинг и учёт.
 
 ## Технический снэпшот
-- Архитектура: Telegram Bot + Flask REST API + Django Admin + MySQL
+- Архитектура: Telegram Bot + REST API + Admin + MySQL
 - Меню: унифицированное хранилище, кнопки типов callback/url/product/action
 - Продукты: multi, single, material, subscription
 - Платежи: карточные провайдеры, PayKassa‑крипта, внутренний баланс, СБП
